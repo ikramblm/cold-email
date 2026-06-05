@@ -1,0 +1,6 @@
+/vendor/
+/storage/uploads/*
+!/storage/uploads/.gitkeep
+config/config.local.php
+*.log
+.DS_Store

@@ -1,0 +1,6 @@
+first_name,last_name,email,company,role,website,linkedin_url
+John,Smith,john@acme.com,Acme Corp,Head of Sales,https://acme.com,https://linkedin.com/in/johnsmith
+Maria,Garcia,maria@brightloop.io,BrightLoop,Founder & CEO,https://brightloop.io,
+Daniel,Okafor,daniel@nimbusdata.co,Nimbus Data,VP Marketing,https://nimbusdata.co,https://linkedin.com/in/danielokafor
+Aisha,Rahman,aisha@finchpay.com,FinchPay,Growth Lead,,
+Tom,Becker,tom@orbitcrm.com,Orbit CRM,Sales Director,https://orbitcrm.com,

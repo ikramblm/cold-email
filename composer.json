@@ -1,0 +1,14 @@
+{
+    "name": "coldreach/ai-cold-email-personalizer",
+    "description": "AI Cold Email Personalizer MVP — upload leads, generate personalised emails with Claude, export results.",
+    "type": "project",
+    "require": {
+        "php": ">=8.1",
+        "ext-curl": "*",
+        "ext-pdo": "*",
+        "stripe/stripe-php": "^13.0"
+    },
+    "config": {
+        "vendor-dir": "vendor"
+    }
+}

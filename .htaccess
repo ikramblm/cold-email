@@ -1,0 +1,2 @@
+# Deny web access to application internals
+RedirectMatch 403 ^/?(config|src|cron|storage|vendor)(/.*)?$
